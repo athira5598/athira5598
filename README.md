@@ -15,10 +15,25 @@ I'm a Data Science student from India. Coming with a good knowledge of executing
 - 🌱 I’m currently learning Data Science, Artificial Intelligence . 
 - 🤔 I’m looking for help with in Website Designer.
 - 💬 Ask me about Web Development, Machine Learning . 
-- 📫 How to reach me: swastik845@gmail.com
+- 📫 How to reach me: athiramuraleedharan5598@gmail.com
 - ⚡ Fun fact: I play games and watching movies. 
 
 
+<br/>
+
+## Profile Visits :
+
+<br/> 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=athira5598)
+
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+<br>
+  
 ## 🔧 Technologies & Tools :
 
 #### Languages
@@ -60,20 +75,6 @@ I'm a Data Science student from India. Coming with a good knowledge of executing
 <code><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/800px-Spyder_logo.svg.png"/></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/></code>
 
-<br/>
-
-## Profile Visits :
-
-<br/> 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=athira5598)
-
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-<br>
 
 I love sharing knowledge, together for helping other developers .
 
