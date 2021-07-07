@@ -16,7 +16,7 @@ I'm a Data Science student from India. Coming with a good knowledge of executing
 - 🤔 I’m looking for help with in Website Designer.
 - 💬 Ask me about Web Development, Machine Learning . 
 - 📫 How to reach me: athiramuraleedharan5598@gmail.com
-- ⚡ Fun fact: I play games and watching movies. 
+- ⚡ Fun fact: I drawing,writing and watching movies. 
 
 
 <br/>
