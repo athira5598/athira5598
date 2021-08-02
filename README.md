@@ -7,14 +7,17 @@
 <h3>Glad to see you here!</h3>
 
 <p>
-I'm Athira. I completed my post graduation in mathematics 🎓 from kannur university 🏛. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Data Science 🕸️ and working on Machine Learning 🤓.
+Hai, I'm Athira. I'm a business minded Data Scientist with a demonstrated ability to deliver valuable insights through data analytics and advanced data driven methods. Also coming with a 5 years experience and strong founddation in Mathematics and Stats. </p>
+
+<p>
+I completed my post graduation with M.Sc in Mathematics 🎓 from Mary Matha Arts and Science College, Kannur university 🏛, Wayanad. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Data Science 🕸️ and working on diverse Machine Learning projects 🤓.
 </p>
 
 <h3> Talking about personal stuffs:</h3>
 
-- 👨🏽‍💻 I’m currently working on something cool 😉
+- 👨🏽‍💻 I’m currently working on real time projects of ML in various sectors 😉
 
-- 🌱 I’m currently learning Data Science.
+- 🌱 I’m currently learning Data Science at Bangalore
 
 - 💬 Ask me about anything **[here](mailto:athiramuraleedharan5598@gmail.com)** ! I am happy to help.
 
