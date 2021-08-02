@@ -7,7 +7,7 @@
 <h3>Glad to see you here!</h3>
 
 <p>
-I'm Athira. I'm a final year student pursuing Bachelors's in mathematics 🎓 from North South University 🏛. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Data Science 🕸️ and working on Machine Learning 🤓.
+I'm Athira. I completed my post graduation in mathematics 🎓 from kannur university 🏛. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Data Science 🕸️ and working on Machine Learning 🤓.
 </p>
 
 <h3> Talking about personal stuffs:</h3>
