@@ -21,7 +21,7 @@ I completed my post graduation with M.Sc in Mathematics 🎓 from Mary Matha Art
 
 - 💬 Ask me about anything **[here](mailto:athiramuraleedharan5598@gmail.com)** ! I am happy to help.
 
-- 📫 How to reach me **[Linkedin]((https://www.linkedin.com/in/athira-muraleedharan-7086b2212))**
+- 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/athira-muraleedharan-7086b2212)**
 
 
 <h3 align="left">Languages and Tools:</h3>
